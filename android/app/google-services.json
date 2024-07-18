@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "173033009197",
+    "firebase_url": "https://campus-cart-86c1bf-default-rtdb.firebaseio.com",
+    "project_id": "campus-cart-86c1bf",
+    "storage_bucket": "campus-cart-86c1bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173033009197:android:2b0a4bd2ceb21f9727c8a4",
+        "android_client_info": {
+          "package_name": "com.mycompany.campuscart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNo1RganrhZBOrvJNXxBaDsRyusqciwWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
