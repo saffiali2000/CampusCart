@@ -4,14 +4,14 @@ CampusCart is an online platform designed for university students to buy and sel
 
 # Features
 
-- User Authentication**: Secure sign-in and sign-up using Firebase Authentication.
-- University Email Verification**: Ensures that only students with verified university email addresses can register.
-- User Profile Management**: Allows users to update display names, profile pictures, and manage their textbook listings.
-- Real-Time Notifications**: Keeps users informed of new messages, listing updates, and transaction confirmations.
-- Textbook Management**: Users can list, edit, and remove textbooks from their inventory.
-- Advanced Search and Filter**: Utilizes Algolia's search engine for fast and relevant search results.
-- Messaging System**: Facilitates direct communication between buyers and sellers.
-- Rating and Review**: Users can rate and review their interactions with other users.
+- User Authentication: Secure sign-in and sign-up using Firebase Authentication.
+- University Email Verification: Ensures that only students with verified university email addresses can register.
+- User Profile Management: Allows users to update display names, profile pictures, and manage their textbook listings.
+- Real-Time Notifications: Keeps users informed of new messages, listing updates, and transaction confirmations.
+- Textbook Management: Users can list, edit, and remove textbooks from their inventory.
+- Advanced Search and Filter: Utilizes Algolia's search engine for fast and relevant search results.
+- Messaging System: Facilitates direct communication between buyers and sellers.
+- Rating and Review: Users can rate and review their interactions with other users.
 
 # Front-End
 
